@@ -4,4 +4,6 @@ body{
 h1{
     color: limegreen;
     text-align: center;
+    font-size:500px;
+    margin:25px;
 }
